@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -19,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1484-linked-list-in-binary-tree) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
