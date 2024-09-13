@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
