@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
 | [2232-adding-spaces-to-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
 ## Hash Table
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
 ## Number Theory
 |  |
 | ------- |
