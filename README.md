@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
+| [3447-clear-digits](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3447-clear-digits](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
 ## Counting
 |  |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
