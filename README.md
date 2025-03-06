@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
 ## Simulation
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
 ## Number Theory
 |  |
