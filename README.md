@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3447-clear-digits](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +163,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
