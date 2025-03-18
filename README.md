@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2665-minimum-time-to-repair-cars) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
 ## String
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
