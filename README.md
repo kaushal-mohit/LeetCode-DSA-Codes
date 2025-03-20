@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3234-double-modular-exponentiation) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3541-report-spam-message) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String
 |  |
 | ------- |
@@ -181,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
