@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
@@ -200,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
