@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
