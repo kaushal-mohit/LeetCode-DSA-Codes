@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2232-adding-spaces-to-a-string) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
