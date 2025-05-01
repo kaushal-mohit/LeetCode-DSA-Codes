@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
@@ -226,5 +227,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
