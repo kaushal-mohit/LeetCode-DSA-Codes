@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
