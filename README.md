@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
