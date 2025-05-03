@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
@@ -111,11 +112,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [2035-count-sub-islands](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2035-count-sub-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
