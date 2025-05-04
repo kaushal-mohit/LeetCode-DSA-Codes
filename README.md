@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
