@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2478-longest-nice-subarray) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
