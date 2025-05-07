@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0056-merge-intervals) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0090-subsets-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
