@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0455-assign-cookies) |
 | [0906-walking-robot-simulation](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0907-koko-eating-bananas) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0216-combination-sum-iii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
