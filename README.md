@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0131-palindrome-partitioning) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0216-combination-sum-iii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/0131-palindrome-partitioning) |
 | [2262-solving-questions-with-brainpower](https://github.com/kaushal-mohit/LeetCode-DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 ## Divide and Conquer
 |  |
